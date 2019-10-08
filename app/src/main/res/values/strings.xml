@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KamusBetawiIndo</string>
+    <string name="hasil_terjemahan">Hasil Terjemahan</string>
+    <string name="algoritma">Algoritma</string>
+
+    <string-array name="algoritma">
+        <item>Boyer Moore</item>
+        <item>Horspool</item>
+    </string-array>
+</resources>
